@@ -1383,6 +1383,11 @@ hr{
   font-size: 16px;
   margin: 0;
 }
+.social-links ul li a i{
+  color: #2F5BE7;
+  font-size: 26px;
+  margin: 0;
+}
 /*end team card stying*/
 
 
@@ -2223,6 +2228,12 @@ hr{
 }
 
 .sponsor p {
+    font-size: 12px;
+}
+.collab{
+  margin-top: 80px ;
+}
+.collab p {
     font-size: 12px;
 }
 
